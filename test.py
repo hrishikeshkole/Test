@@ -1,4 +1,4 @@
-def greet(name)
+def greet(name):
     print("Hello, " + name)
 
 for i in range(5)
